@@ -1,2 +1,2 @@
-# estudos
-repositorio de estudos do curso santander coders
+# Curso digital: Git/versionamento do codigo
+# gravando mudanças no repositorio
